@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">LV1BM</string>
+    <string name="app_name">Famous Athletes</string>
+
+    <string-array name="personsFacts">
+
+        <item>His parents named him after a type of steak. The beef is from a species of cattle, Wagyu, raised in the Kobe region of Japan.</item>
+        <item>Roger Federer has won the Grand Slam 19 times, and is poised to go down in history as one of the best tennis players the world has ever seen.</item>
+        <item>Luka Doncic represented the Slovenian club, Union Olimpija, at the under-14 Vasas Intesa Sanpaolo Cup in Budapest where he emerged Most Valuable Player, despite finishing as runners-up to FC Barcelona.</item>
+
+    </string-array>
+
 </resources>
